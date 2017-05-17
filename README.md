@@ -11,7 +11,7 @@ let sum = intHolders.reduce(0, { $0 + $1.value }) // sum has type `Int`
 ```
 
 ## What?
-This project makes it super convenience to apply addition, subtraction or what ever function you would like to arrays containting `Int`, `Float`, `Double` or your own types!
+This project makes it convenient to apply addition, subtraction or what ever function you would like to arrays containting `Int`, `Float`, `Double` or your *own types*!
 
 ```swift
 let integers = [1, 2, 3, 4]
