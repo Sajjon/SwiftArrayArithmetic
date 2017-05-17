@@ -1,7 +1,7 @@
 ## Why?
 ```swift
 // Because given this array:
-let intHolders: [IntValue] = [...] // type holding `Int` value
+let intHolders: [IntHolder] = [...] // type holding `Int` value
 
 // It is cooler to write this:
 let sum = intHolders+ // sum has type `Int`
